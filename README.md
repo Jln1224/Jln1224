@@ -1,11 +1,9 @@
-Hello, welcome. I'm Jilson ( StormCod3r ) 💻.
+Hello, welcome. I'm Jilson ( S4ntos ) 💻.
 
 @@Follow my social media below.@@
-- Instagram : jilson_svr
-+ Twitter: 
-- Youtube:
+- Instagram : jln_Silveira
 
 ! Follow me
 # ⏳ CyberSecurity Student || Programmer
 
-Discord: worspy#0577
+Discord: s4ntoszx_
