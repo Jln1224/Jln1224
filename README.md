@@ -23,7 +23,7 @@ Atualmente focado em desenvolver aplicações robustas e entender as camadas de 
 
 ### 🤝 Vamos nos conectar?
 <p align="left">
-<a href="https://www.linkedin.com/in/JilsonSilveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jilson Silveira" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jilson-silveira-818610266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jilson Silveira" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jln_Silveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jln_Silveira" height="30" width="40" /></a>
 <a href="https://discord.com/users/s4ntoszx_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="s4ntoszx_" height="30" width="40" /></a>
 </p>
