@@ -37,8 +37,17 @@ Atualmente focado em desenvolver aplicações robustas e entender as camadas de 
 ---
 
 ### 🤝 Vamos nos conectar?
+
 <p align="left">
-<a href="https://www.linkedin.com/in/jilson-silveira-08a064220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jilson Silveira" height="30" width="40" /></a></a></a></a></a></a>
-<a href="https://www.instagram.com/JLN_SILVEIRADEV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JLN_SILVEIRADEV" height="30" width="40" /></a></a></a></a></a></a>
-<a href="https://discord.com/users/s4ntoszx_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="s4ntoszx_" height="30" width="40" /></a></a></a></a></a></a>
+<a href="https://www.linkedin.com/in/jilson-silveira-08a064220/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/JLN_SILVEIRADEV" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/s4ntoszx_" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
 </p>
